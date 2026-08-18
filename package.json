@@ -1,0 +1,19 @@
+{
+  "name": "next-level-api-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^11.8.0",
+    "pactum": "^3.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0"
+  }
+}
