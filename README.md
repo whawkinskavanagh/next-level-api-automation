@@ -12,6 +12,7 @@ This is an API playground for anyone wanting to learn more about API testing.
 This is a link to the API swagger documentation [text](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ### to run the tests 
+```npm install```
 ```npm test```
 
 
