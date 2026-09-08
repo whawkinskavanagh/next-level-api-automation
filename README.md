@@ -13,6 +13,7 @@ This is a link to the API swagger documentation [text](https://restful-booker.he
 
 ### to run the tests 
 ```npm install```
+
 ```npm test```
 
 
